@@ -14,3 +14,12 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/', 'ImagesGalleryController@create');
+Route::get('image-gallery', 'ImageGalleryController@index');
+Route::post('image-gallery', 'ImageGalleryController@filestore');
+Route::delete('image-gallery/{id}', 'ImageGalleryController@destroy');
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');

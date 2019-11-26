@@ -78,9 +78,9 @@
                 
               </a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link" href="">Gallery</a>
-            </li>
+           <!--  <li class="nav-item">
+              <a class="nav-link" href="/image-gallery">Gallery</a>
+            </li> -->
             <li class="nav-item">
               <a href="" class="nav-link">Audio Messages</a>
             </li>
@@ -112,20 +112,11 @@
 
           <!-- Right -->
           <ul class="navbar-nav nav-flex-icons">
-            <li class="nav-item">
-              <a href="https://www.facebook.com/Church Beyond Walls" class="nav-link" target="_blank">
-                <i class="fa fa-facebook-f"></i>
-              </a>
-            </li>
-            <li class="nav-item">
-              <a href="https://twitter.com/@cbwew2" class="nav-link" target="_blank">
-                <i class="fa fa-twitter"></i>
-              </a>
-            </li>
+            
             <li class="nav-item">
               <a href="" class="nav-link border border-light rounded"
                 target="_blank">
-                <i class="fa fa-github mr-2"></i>Connect Form
+                Connect Form
               </a>
             </li>
           </ul>
@@ -264,7 +255,7 @@
             <!--First row-->
             <div class="row">
               <div class="col-1 mr-3">
-                <i class="fas fa-code fa-2x indigo-text"></i>
+                <i class="fas fa-church fa-2x indigo-text"></i>
               </div>
               <div class="col-10">
                 <h5 class="feature-title">Envangelical Church Winning All</h5>
@@ -278,7 +269,7 @@
             <!--Second row-->
             <div class="row">
               <div class="col-1 mr-3">
-                <i class="fas fa-book fa-2x blue-text"></i>
+                <i class="fas fa-users fa-2x blue-text"></i>
               </div>
               <div class="col-10">
                 <h5 class="feature-title">People</h5>
@@ -294,7 +285,7 @@
             <!--Third row-->
             <div class="row">
               <div class="col-1 mr-3">
-                <i class="fas fa-graduation-cap fa-2x cyan-text"></i>
+                <i class="fas fa-heart fa-2x cyan-text"></i>
               </div>
               <div class="col-10">
                 <h5 class="feature-title">Relationships</h5>
@@ -340,7 +331,7 @@
             <!--Grid row-->
             <div class="row">
               <div class="col-2">
-                <i class="fab fa-firefox fa-2x mb-1 indigo-text" aria-hidden="true"></i>
+                <i class="fas fa-child fa-2x mb-1 indigo-text" aria-hidden="true"></i>
               </div>
               <div class="col-10 mb-2 pl-3">
                 <h5 class="feature-title font-bold mb-1">Youth Fellowship</h5>
@@ -358,7 +349,7 @@
             <!--Grid row-->
             <div class="row">
               <div class="col-2">
-                <i class="fas fa-level-up-alt fa-2x mb-1 indigo-text" aria-hidden="true"></i>
+                <i class="fas fa-broom fa-2x mb-1 indigo-text" aria-hidden="true"></i>
               </div>
               <div class="col-10 mb-2">
                 <h5 class="feature-title font-bold mb-1">Santuary Keepers</h5>
@@ -376,7 +367,7 @@
             <!--Grid row-->
             <div class="row">
               <div class="col-2">
-                <i class="fas fa-comments fa-2x mb-1 indigo-text" aria-hidden="true"></i>
+                <i class="fas fa-life-ring fa-2x mb-1 indigo-text" aria-hidden="true"></i>
               </div>
               <div class="col-10 mb-2">
                 <h5 class="feature-title font-bold mb-1">Shalom Sisters</h5>
@@ -394,12 +385,12 @@
             <!--Grid row-->
             <div class="row">
               <div class="col-2">
-                <i class="fas fa-code fa-2x mb-1 indigo-text" aria-hidden="true"></i>
+                <i class="fas fa-bold fa-2x mb-1 indigo-text" aria-hidden="true"></i>
               </div>
               <div class="col-10 mb-2">
                 <h5 class="feature-title font-bold mb-1">Beloved Sisters</h5>
                 <p class="grey-text mt-2">
-                  Staaying hopeful, believing in God.
+                  Staying hopeful, believing in God.
                 </p>
               </div>
             </div>
@@ -418,7 +409,7 @@
             <!--Grid row-->
             <div class="row">
               <div class="col-2">
-                <i class="fas fa-cubes fa-2x mb-1 indigo-text" aria-hidden="true"></i>
+                <i class="fas fa-female fa-2x mb-1 indigo-text" aria-hidden="true"></i>
               </div>
               <div class="col-10 mb-2">
                 <h5 class="feature-title font-bold mb-1">Women Fellowship</h5>
@@ -434,7 +425,7 @@
             <!--Grid row-->
             <div class="row">
               <div class="col-2">
-                <i class="fas fa-question fa-2x mb-1 indigo-text" aria-hidden="true"></i>
+                <i class="fas fa-male fa-2x mb-1 indigo-text" aria-hidden="true"></i>
               </div>
               <div class="col-10 mb-2">
                 <h5 class="feature-title font-bold mb-1">Men's Fellowship</h5>
@@ -451,7 +442,7 @@
             <!--Grid row-->
             <div class="row">
               <div class="col-2">
-                <i class="fas fa-th fa-2x mb-1 indigo-text" aria-hidden="true"></i>
+                <i class="fas fa-microphone fa-2x mb-1 indigo-text" aria-hidden="true"></i>
               </div>
               <div class="col-10 mb-2">
                 <h5 class="feature-title font-bold mb-1">Choir</h5>
@@ -469,7 +460,7 @@
             <!--Grid row-->
             <div class="row">
               <div class="col-2">
-                <i class="far fa-file-code fa-2x mb-1 indigo-text" aria-hidden="true"></i>
+                <i class="fas fa-lock fa-2x mb-1 indigo-text" aria-hidden="true"></i>
               </div>
               <div class="col-10 mb-2">
                 <h5 class="feature-title font-bold mb-1">Security</h5>
@@ -499,6 +490,7 @@
         role="button">Connect Form
         <i class="fas fa-download ml-2"></i>
       </a>
+      <a class="btn btn-grey" href="/login" target="_blank" role="button">Admin <i class="fas fa-cog ml-2"></i> </a>
       
     </div>
     <!--/.Call to action-->
